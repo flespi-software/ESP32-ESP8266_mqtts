@@ -14,7 +14,7 @@ Simple example of secure mqtt connection with root CA/fingerprint for ESP32/ESP8
 Official Arduino IDE info on how to [install additional cores](https://www.arduino.cc/en/Guide/Cores)
 
 ### Select board
-Arduino IDE: Tools -> Board -> Your board type (ESP32 Dev Module in my case)
+Arduino IDE: Tools -> Board -> Your board type (ESP32 Dev Module in my case [ESP32 DevkitC v4](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html))
 
 ### Get FlespiToken
 register on [flespi platform](https://flespi.io), create a Token in a tokens Tab and paste token in [credaantionals.h file](https://github.com/flespi-software/ESP32-ESP8266_mqtts/blob/main/ESP_Certificate/credentials.h) definitions:
