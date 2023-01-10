@@ -1,4 +1,4 @@
-# ESP32/ESP8266 mqtts
+# ESP32/ESP8266 MQTTs
 Simple example of secure mqtt connection with root CA/fingerprint for ESP32/ESP8266 boards (send data to mqtt.flespi.io via MQTT over TLS)
 
 ## Prerequisites:
